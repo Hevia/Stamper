@@ -1,7 +1,7 @@
 # Stamper
 LAHacks 2020 Submission!
 
-Stamper is a simple art application. Create shapes and "stamp" them together to make art! Built using Rust & Nannou the creative coding framework for Rust: https://nannou.cc/ 
+Stamper is a simple art application. Create shapes and "stamp" them together to make art! Built using Rust & Nannou the open source creative coding framework for Rust: https://nannou.cc/ 
 
 ## How to run:
 * Install Rust 2018 or higher
